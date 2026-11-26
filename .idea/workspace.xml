@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a49f7d1-e2bc-4f25-aa40-4d57f3ed322f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/catalogo/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/catalogo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/catalogo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/catalogo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/catalogo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/catalogo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/catalogo/src/main/java/br/com/macrolego/catalogo/CatalogoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/catalogo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/catalogo/src/test/java/br/com/macrolego/catalogo/CatalogoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +46,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
@@ -88,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1795648320077</updated>
-      <workItem from="1795648320715" duration="2142000" />
+      <workItem from="1795648320715" duration="2854000" />
     </task>
     <servers />
   </component>
